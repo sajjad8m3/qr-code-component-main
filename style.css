@@ -21,6 +21,7 @@ body{
     height: 497px;
     background-color: var(--White);
     border-radius: 20px;
+    box-shadow: 0 25px 25px rgb(0,0,0,.05)
 }
 .wrapper{
     display: flex;
