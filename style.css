@@ -28,7 +28,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 16px;
+    padding: 1rem;
 }
 img{
     border-radius: 10px;
